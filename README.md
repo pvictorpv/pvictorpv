@@ -9,7 +9,7 @@ Curious and self-taught, i'm in the process of changing careers to web developme
 
 [Zodiac Quotes](https://github.com/pvictorpv/zodiac-quotes)
 
-[Ma Cherie Salon](https://pvictorpv.github.io/ma-cherie-salon/)
+[Ma Cherie Salon](https://github.com/pvictorpv/ma-cherie-salon)
 
 ## 📫 Contact Me
 
