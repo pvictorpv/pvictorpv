@@ -1,15 +1,24 @@
 # 👋 Hi, I’m Paulo Victor
-* :man_office_worker: I’m currently a bank clerk recognized for excellence in customer relations and problem-solving.
-Curious and self-taught, i'm in the process of changing careers to web development.
 
-* :open_book: I’m almost finishing HTML, CSS and JavaScript. Soon I will be learning React and Node JS / Express.
+* :open_book: 
+• JavaScript: +3 anos
+• Node.js/Express: +2 anos
+• React: +1 ano
+• MongoDB, Postgres, Firebase, TypeScript, Mongoose, Prisma, Firebase, TypeScript, SASS, npm, SASS, Bootstrap
+• Conhecimentos de Metodologia Ágil (Scrum e Kanban),  Git/GitHub, Princípios do Clean Code (DRY, KISS, YAGNI, Favor Readability...)
+• Entusiasta de crypto, jogos e tecnologia.
 
-* **:mag_right: I'm looking for a job that challenges me and allows me to use my full potential. I think I will find it in the web development industry.**
+* :man_office_worker:
+
+Professional with 8 years of experience negotiating banking products and services under goals pressure and short deadlines. Recognized for excellence in customer relations and problem-solving.
+
+**As a web developer, in my spare time, I build projects with a business vision. I am looking for challenges in the web development market to unleash my full potential.
+
+
+
 ## :file_cabinet: My Projects
 
 [Zodiac Quotes](https://github.com/pvictorpv/zodiac-quotes)
-
-[Ma Cherie Salon](https://github.com/pvictorpv/ma-cherie-salon)
 
 ## 📫 Contact Me
 
