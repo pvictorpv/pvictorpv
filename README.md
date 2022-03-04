@@ -1,11 +1,11 @@
 # 👋 Hi, I’m Paulo Victor
 
-• JavaScript: +3 anos<br/>
-• Node.js/Express: +2 anos<br/>
-• React: +1 ano<br/>
-• MongoDB, Postgres, Firebase, TypeScript, Mongoose, Prisma, Firebase, TypeScript, SASS, npm, SASS, Bootstrap<br/>
-• Conhecimentos de Metodologia Ágil (Scrum e Kanban),  Git/GitHub, Princípios do Clean Code (DRY, KISS, YAGNI, Favor Readability...)<br/>
-• Entusiasta de crypto, jogos e tecnologia.
+• JavaScript: +3 years <br/>
+• Node.js/Express: +2 years <br/>
+• React: +1 year <br/>
+• MongoDB, Postgres, Mongoose, Prisma, Firebase, TypeScript, SASS, npm, SASS, Bootstrap <br/>
+• Knowledge of Agile Methodology (Scrum and Kanban), Git/GitHub, Clean Code Principles (DRY, KISS, YAGNI, Favor Readability...) <br/>
+• Crypto, gamming & technology enthusiast <br/>
 
 Professional with 8 years of experience negotiating banking products and services under goals pressure and short deadlines. Recognized for excellence in customer relations and problem-solving.
 
