@@ -2,6 +2,7 @@
 
 * :open_book: 
 • JavaScript: +3 anos
+
 • Node.js/Express: +2 anos
 • React: +1 ano
 • MongoDB, Postgres, Firebase, TypeScript, Mongoose, Prisma, Firebase, TypeScript, SASS, npm, SASS, Bootstrap
@@ -12,7 +13,7 @@
 
 Professional with 8 years of experience negotiating banking products and services under goals pressure and short deadlines. Recognized for excellence in customer relations and problem-solving.
 
-**As a web developer, in my spare time, I build projects with a business vision. I am looking for challenges in the web development market to unleash my full potential.
+**As a web developer, in my spare time, I build projects with a business vision. I am looking for challenges in the web development market to unleash my full potential.**
 
 
 
